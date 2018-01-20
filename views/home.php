@@ -1,0 +1,1 @@
+<h3>Hello, <?php echo isset($_SESSION['name']) ? $_SESSION['name'] : ''; ?>!</h3>
